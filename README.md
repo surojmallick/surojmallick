@@ -43,8 +43,8 @@ Search Tags : #SurojMallick
 #CodingJourney
 ## 🌐 Connect with Me
 
-- **LinkedIn:** [Suroj Mallick](#)
-- **Portfolio:** [surojmallick.com](#)
+- **LinkedIn:** [https://www.linkedin.com/in/surojmallick/](#)
+- **Portfolio:** [surojmallick.blogspot.com](#)
 - **Twitter:** [@surojdev](#)
 
 ## 📫 Let's Collaborate
