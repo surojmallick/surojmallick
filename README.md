@@ -26,7 +26,21 @@ Here are a few projects I'm proud of:
 3. [Project 3](#) - Brief description.
 
 Feel free to explore my repositories for more projects!
-
+Search Tags : #SurojMallick
+#WebDeveloper
+#FrontEndDeveloper
+#ReactDeveloper
+#VueJS
+#JavaScriptDeveloper
+#NodeJS
+#ExpressJS
+#HTMLCSS
+#WebDevelopment
+#Portfolio
+#TechEnthusiast
+#CodePassion
+#GitHubProfile
+#CodingJourney
 ## 🌐 Connect with Me
 
 - **LinkedIn:** [Suroj Mallick](#)
